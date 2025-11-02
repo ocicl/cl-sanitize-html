@@ -4,7 +4,7 @@ A Common Lisp library for sanitizing HTML using OWASP-style policies
 
 |---------+-----------------------------------------------------|
 | source  | git:https://github.com/atgreen/cl-sanitize-html.git |
-| commit  | f5366ec                                             |
+| commit  | 5e5b3f4                                             |
 | systems | sanitize-html                                       |
 |---------+-----------------------------------------------------|
 
