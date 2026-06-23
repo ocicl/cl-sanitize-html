@@ -7,3 +7,4 @@ A Common Lisp library for sanitizing HTML using OWASP-style policies
 | commit  | 0de1f26                                              |
 | systems | sanitize-html                                        |
 |---------+------------------------------------------------------|
+ 
